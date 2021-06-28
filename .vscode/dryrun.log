@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory 'c:/Users/sunhu/Desktop/tmp/Study-daily/CS/CSE 251 Programming in C'
+make.exe: Leaving directory 'c:/Users/sunhu/Desktop/tmp/Study-daily/CS/CSE 251 Programming in C'
+ 
+make.exe: *** No targets specified and no makefile found.  Stop.
+ 

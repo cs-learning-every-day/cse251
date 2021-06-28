@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.js": "javascript",
+        "*.jsx": "typescriptreact",
+        "*.wxss": "css",
+        "*.wxml": "html",
+        "autosolve.h": "c",
+        "transistors.h": "c"
+    }
+}
